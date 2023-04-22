@@ -1,4 +1,4 @@
-# Py Assistant
+# Py AI Assistant
 
 Py Assistant ist ein Sprachassistent, der auf Python basiert. Er nutzt die [OpenAI GPT-3 API](https://openai.com/) für die Textgenerierung und die Python-Bibliothek [pyttsx3](https://pypi.org/project/pyttsx3/) für die Sprachausgabe.
 
@@ -39,4 +39,4 @@ Py Assistant wurde von thetechnikfreak entwickelt und verwendet die folgenden Bi
 
 ## Lizenz
 
-Py Assistant ist unter der [MIT-Lizenz](https://opensource.org/licenses/MIT) lizenziert.
+Py AI Assistant ist unter der [MIT-Lizenz](https://opensource.org/licenses/MIT) lizenziert.
