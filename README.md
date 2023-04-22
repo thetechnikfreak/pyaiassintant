@@ -11,11 +11,11 @@ Py Assistant kann derzeit folgende Aktionen ausführen:
 
 ## Verwendung
 
-Py Assistant kann durch die Ausführung der Datei `main.py` gestartet werden. Die folgenden Schritte sind erforderlich:
+Py Assistant kann durch die Ausführung der Datei `pyassintant.py.py` gestartet werden. Die folgenden Schritte sind erforderlich:
 
-1. Fügen Sie Ihre OpenAI API-Schlüssel in die Variable `api_key` in der Datei `main.py` ein.
+1. Fügen Sie Ihre OpenAI API-Schlüssel in die Variable `api_key` in der Datei `pyassintant.py` ein.
 2. Stellen Sie sicher, dass Sie die erforderlichen Python-Bibliotheken installiert haben, indem Sie das folgende Kommando ausführen: `pip install -r requirements.txt`.
-3. Führen Sie das Programm aus, indem Sie die Datei `main.py` ausführen.
+3. Führen Sie das Programm aus, indem Sie die Datei `pyassintant.py` ausführen.
 
 ## Anforderungen
 
