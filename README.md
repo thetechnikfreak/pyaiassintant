@@ -1,30 +1,42 @@
-Py Assistant
-Dies ist ein Python-Programm, das als sprachgesteuerter Assistent dient. Das Programm verwendet die Spracherkennungsbibliothek speech_recognition und die Text-to-Speech-Bibliothek pyttsx3, um Spracheingaben des Benutzers zu verstehen und ihm in Sprache zu antworten.
+# Py Assistant
 
-Verwendete Einstellungen
-API Key: APIKEY
-Modell: gpt-3.5-turbo
-Sprache: de-DE
-Name des Assistenten: Roboter
-Nachricht bei Unverständlichkeit: Entschuldigung, ich habe das nicht verstanden
-Aufforderung zum Sprechen: Sprechen Sie jetzt
-Nachricht bei Ende des Gesprächs: Vielen Dank, das Gespräch ist beendet
-Verwendung
-Das Programm wartet darauf, dass der Benutzer etwas sagt. Wenn der Benutzer den Namen des Assistenten sagt, wird der Rest des Satzes als Aufforderung interpretiert und ausgeführt.
+Py Assistant ist ein Sprachassistent, der auf Python basiert. Er nutzt die [OpenAI GPT-3 API](https://openai.com/) für die Textgenerierung und die Python-Bibliothek [pyttsx3](https://pypi.org/project/pyttsx3/) für die Sprachausgabe.
 
-Befehle
-Play
-Um einen Song auf YouTube zu suchen und abzuspielen, sagen Sie einfach "Roboter, play [Songname]".
+## Features
 
-Andere Anfragen
-Für alle anderen Anfragen sagen Sie einfach "Roboter, [Ihre Anfrage]".
+Py Assistant kann derzeit folgende Aktionen ausführen:
 
-Technologie
-Dieses Programm verwendet die folgenden Technologien:
+- YouTube-Videos abspielen: Sie können Py Assistant auffordern, ein bestimmtes Video auf YouTube zu finden und abzuspielen, indem Sie sagen "Spiele [Video-Name] auf YouTube".
+- Fragen beantworten: Sie können Py Assistant Fragen stellen, indem Sie einfach Ihre Frage stellen.
 
-Python
-speech_recognition
-pyttsx3
-pywhatkit
-requests
-JSON
+## Verwendung
+
+Py Assistant kann durch die Ausführung der Datei `main.py` gestartet werden. Die folgenden Schritte sind erforderlich:
+
+1. Fügen Sie Ihre OpenAI API-Schlüssel in die Variable `api_key` in der Datei `main.py` ein.
+2. Stellen Sie sicher, dass Sie die erforderlichen Python-Bibliotheken installiert haben, indem Sie das folgende Kommando ausführen: `pip install -r requirements.txt`.
+3. Führen Sie das Programm aus, indem Sie die Datei `main.py` ausführen.
+
+## Anforderungen
+
+Py Assistant erfordert die folgenden Anforderungen:
+
+- Python 3.6 oder höher
+- Eine Internetverbindung
+- Eine gültige OpenAI API-Schlüssel
+
+## Credits
+
+Py Assistant wurde von thetechnikfreak entwickelt und verwendet die folgenden Bibliotheken:
+
+- [OpenAI API](https://openai.com/)
+- [pyttsx3](https://pypi.org/project/pyttsx3/)
+- [SpeechRecognition](https://pypi.org/project/SpeechRecognition/)
+- [pywhatkit](https://pypi.org/project/pywhatkit/)
+- [requests](https://pypi.org/project/requests/)
+- [json](https://docs.python.org/3/library/json.html)
+- [tkinter](https://docs.python.org/3/library/tk.html)
+
+## Lizenz
+
+Py Assistant ist unter der [MIT-Lizenz](https://opensource.org/licenses/MIT) lizenziert.
