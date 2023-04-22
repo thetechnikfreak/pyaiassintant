@@ -6,7 +6,7 @@ Py Assistant ist ein Sprachassistent, der auf Python basiert. Er nutzt die [Open
 
 Py Assistant kann derzeit folgende Aktionen ausführen:
 
-- YouTube-Videos abspielen: Sie können Py Assistant auffordern, ein bestimmtes Video auf YouTube zu finden und abzuspielen, indem Sie sagen "Spiele [Video-Name] auf YouTube".
+- YouTube-Videos abspielen: Sie können Py Assistant auffordern, ein bestimmtes Video auf YouTube zu finden und abzuspielen, indem Sie sagen "Speakname play [Video-Name]".
 - Fragen beantworten: Sie können Py Assistant Fragen stellen, indem Sie einfach Ihre Frage stellen.
 
 ## Verwendung
