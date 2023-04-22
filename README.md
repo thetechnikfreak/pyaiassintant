@@ -23,13 +23,13 @@ Py Assistant erfordert die folgenden Anforderungen:
 
 - Python 3.6 oder höher
 - Eine Internetverbindung
-- Eine gültige OpenAI API-Schlüssel
+- Eine gültige OpenAI API-Schlüssel von https://discord.pawan.krd/ (im Bot channel /key)
 
 ## Credits
 
 Py Assistant wurde von thetechnikfreak entwickelt und verwendet die folgenden Bibliotheken:
 
-- [OpenAI API](https://openai.com/)
+- [pawan.krd API](https://pawan.krd/)
 - [pyttsx3](https://pypi.org/project/pyttsx3/)
 - [SpeechRecognition](https://pypi.org/project/SpeechRecognition/)
 - [pywhatkit](https://pypi.org/project/pywhatkit/)
