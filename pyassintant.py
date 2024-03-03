@@ -9,8 +9,6 @@ import subprocess
 import os
 import requests
 import json                                                                                                                                                                                                                                  
-import os
-import threading
 import vlc
 from pytube import YouTube
 from ytmusicapi import YTMusic
