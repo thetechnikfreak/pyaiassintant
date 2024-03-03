@@ -1,12 +1,13 @@
 # Py AI Assistant
 
-Py Assistant ist ein Sprachassistent, der auf Python basiert. Er nutzt die [OpenAI GPT-3 API](https://openai.com/) für die Textgenerierung und [Thortsen Voice] (https://www.thorsten-voice.de/en/motivation-vision/) für TTS 
+Py Assistant ist ein Sprachassistent, der auf Python basiert. Er nutzt die [OpenAI GPT-3 API](https://openai.com/) für die Textgenerierung und [Thortsen Voice](https://www.thorsten-voice.de/en/motivation-vision/) für TTS 
 
 ## Features
 
 Py Assistant kann derzeit folgende Aktionen ausführen:
 
-- YouTube-Videos abspielen: Sie können Py Assistant auffordern, ein bestimmtes Video auf YouTube zu finden und abzuspielen, indem Sie sagen "[Speakname] play [Video-Name]".
+- YouTube-Videos abspielen: Sie können Py Assistant auffordern, ein bestimmtes Video auf YouTube zu finden und als Music abzuspielen, indem Sie sagen "[Speakname] play [Video-Name]".
+- Zusätzlich ist auch das Pausieren und das Weiter Abspieln Möglichen
 - Fragen beantworten: Sie können Py Assistant Fragen stellen, indem Sie einfach Ihre Frage stellen.
 
 ## Verwendung
